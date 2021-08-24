@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>How To Sing In Tune</title>
+	<atom:link href="https://Singing-Lessons.github.io/howtosingintune/feed" rel="self" type="application/rss+xml" />
+	<link>https://Singing-Lessons.github.io/howtosingintune</link>
+	<description>Experts show you how to sing in tune</description>
+	<lastBuildDate>Wednesday, 25 August 2021 00:30:01 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>	
+	
+	
+	
+<!--feeditem-->
+<item>
+		<title>How to Sing In Tune</title>
+		<link>https://Singing-Lessons.github.io/howtosingintune/Sing-In-Tune/How-to-Sing-In-Tune.html</link>
+		<pubDate>Wednesday, 25 August 2021 00:30:01 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<category><![CDATA[Sing In Tune]]></category>
+		<guid isPermaLink="false">https://Singing-Lessons.github.io/howtosingintune/Sing-In-Tune/How-to-Sing-In-Tune.html</guid> 
+		<description><![CDATA[How to Sing In Tune
+by
+Kate
+Posted on 25-08-2021 12:30 AM
+Are You Tone Deaf? 
+ Can You Tell if a Note is Correct or Not? 
+ Vocal Control 
+ You Can Do It 
+ How to Sing In Tune Conculsion 
+ 
+ How to Sing in Tune 
+ If you feel like you are having trouble staying in tune, then you are not aloneThis is a common starting point for many people that I have encountered in the past
+]]></description>
+       <enclosure url="#" length="0" type="image" /></item>
+	
+	
+</channel>
+</rss>
+
+		
